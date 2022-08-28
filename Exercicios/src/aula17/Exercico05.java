@@ -18,7 +18,7 @@ public class Exercico05 {
 		double taxaDeCrescimentoB = 1.5;
 		int anos = 0;
 		
-		while(paisB > paisA) {
+		for(;paisB > paisA;) {
 			paisA += (paisA/100)*taxaDeCrescimentoA;
 			paisB += (paisB/100)*taxaDeCrescimentoB;
 			anos++;
