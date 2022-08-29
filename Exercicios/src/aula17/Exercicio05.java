@@ -8,7 +8,7 @@ necessários para que a população do país A ultrapasse ou iguale a
 população do país B, mantidas as taxas de crescimento.
 */
 
-public class Exercico05 {
+public class Exercicio05 {
 
 	public static void main(String[] args) {
 
