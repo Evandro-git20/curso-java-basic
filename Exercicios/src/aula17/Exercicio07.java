@@ -1,7 +1,5 @@
 package aula17;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 /*Faça um programa que leia 5 números e informe o maior número.*/
