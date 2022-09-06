@@ -10,7 +10,6 @@ public class DecimoExercicio {
 	public static void main(String[] args) {
 		int[] vetorA = new int[10];
 		int[] vetorB = new int[vetorA.length];
-		int[] vetorC = new int[vetorB.length];
 		
 		for(int i = 1; i < vetorA.length; i++) {
 			vetorA[i] = i;
